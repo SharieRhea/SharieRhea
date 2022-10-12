@@ -1,6 +1,6 @@
 Hi! I'm Sharie Rhea! <br />
 I am a college student interested in programming and simply looking to enjoy the process.
-I'm currently learning some Python and I am looking toward Java or C# next. <br />
+I'm currently learning some Java and have Python experience. Looking into Kotlin at the moment!<br />
 Thanks for stopping by ^^
 
 <!---
