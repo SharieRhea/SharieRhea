@@ -1,6 +1,7 @@
 Hi! I'm Sharie Rhea! <br />
 I am a college student interested in programming and simply looking to enjoy the process.
-I'm currently learning some Java and have Python experience. Looking into Kotlin at the moment!<br />
+I'm currently learning Java through my classes and know some self-taught Python. 
+Looking into Kotlin at the moment so that I can develop a free and open-source period tracking app!<br />
 Thanks for stopping by ^^
 
 <!---
