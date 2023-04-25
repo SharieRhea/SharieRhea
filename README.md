@@ -1,7 +1,10 @@
-Hi! I'm Sharie Rhea! <br />
-I am a college student interested in programming and simply looking to enjoy the process.
-I'm currently learning Java through my classes and know some self-taught Python. 
-Looking into HTML/CSS at the moment so that I can build my website!<br />
+Hi there, I'm Sharie Rhea! <br />
+I am a college student interested in programming and simply looking to enjoy the process.<br />
+
+On-going projects:<br />
+  *  Personal Website: HTML, CSS, JavaScript<br />
+  *  TicTacToe Game: Python<br />
+
 Thanks for stopping by ^^
 
 <!---
