@@ -3,7 +3,7 @@ I am a college student interested in programming and simply looking to enjoy the
 
 On-going projects:<br />
   *  Personal Website: HTML, CSS, JavaScript<br />
-  *  TicTacToe Game: Python<br />
+  *  Learning Kotlin: Android Developer Tutorials<br />
 
 Thanks for stopping by ^^
 
