@@ -2,8 +2,14 @@ Hi there, I'm Sharie Rhea! <br />
 I am a college student interested in programming and simply looking to enjoy the process.<br />
 
 On-going projects:<br />
-  *  Personal Website: HTML, CSS, JavaScript<br />
-  *  Learning Kotlin: Android Developer Tutorials<br />
+  *  Learning Kotlin and Jetpack Compose: Android Developer Tutorials<br />
+     *  NY Eats app: Navigation and Responsive Design
+  *  Building a custom chatbot for Twitch: Java<br />
+
+Future Project Ideas:<br />
+  * Overhaul website -> React?<br />
+  * Open Source Period-Tracker -> Kotlin<br />
+  * Fuel-Tracker (with text-recognition) -> Kotlin<br />
 
 Thanks for stopping by ^^
 
