@@ -4,6 +4,7 @@ I am a college student interested in programming and simply looking to enjoy the
 On-going projects:<br />
   *  Learning Kotlin and Jetpack Compose: Android Developer Tutorials<br />
   *  SharieBot | A custom chatbot for Twitch: Java<br />
+  *  Advent of Code 2023 | Kotlin
 
 Future Project Ideas:<br />
   * Overhaul website -> React?<br />
