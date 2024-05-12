@@ -2,14 +2,12 @@ Hi there, I'm Sharie Rhea! <br />
 I am a college student interested in programming and simply looking to enjoy the process.<br />
 
 On-going projects:<br />
-  *  Learning Kotlin and Jetpack Compose: Android Developer Tutorials<br />
-  *  SharieBot | A custom chatbot for Twitch: Java<br />
-  *  Advent of Code 2023 | Kotlin
+  *  Period-Tracker App | Kotlin<br />
+  *  Advent of Code 2023 | Kotlin<br />
 
 Future Project Ideas:<br />
-  * Overhaul website -> React?<br />
-  * Fuel-Tracker (with text-recognition) -> Kotlin<br />
-  * Open Source Period-Tracker -> Kotlin<br />
+  * Overhaul website | React?<br />
+  * Fuel-Tracker (with text-recognition) | Kotlin<br />
 
 Thanks for stopping by ^^
 
