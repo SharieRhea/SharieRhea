@@ -2,6 +2,9 @@ Hi there, I'm Sharie Rhea! <br />
 I am a college student interested in programming and simply looking to enjoy the process.<br />
 
 ### On-going projects:<br />
+  * Advent of Code 2024 | Rust<br />
+    * 25 2-part holiday-themed [programming puzzles](https://adventofcode.com/2024) by Eric Wastl.
+    * Using these to learn Rust for the first time, so go easy on me.
   * Overhaul Website | Angular<br />
     * My personal portfolio website. Currently very basic and in need of updating.
   * TrackTagger | Python<br />
