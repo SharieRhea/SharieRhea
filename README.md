@@ -1,11 +1,11 @@
 Hi there, I'm Sharie Rhea! <br />
-I am a college student interested in programming and simply looking to enjoy the process.<br />
+I love learning, programming, and anything that involves solving a puzzle.
 
 ### On-going projects:<br />
-  * TrackTagger | Python<br />
-    * A GUI program for editing .mp3 metadata. Uses last.fm to query and fetch data if desired.
-  * Malicious QR Code Detector | Kotlin<br />
-    * A mobile application that scans a QR code, determines if the destination URL is shortened, and provides the real URL. Optionally, a user may choose to check the URL with a service such as VirusTotal.  
+  * TrackTagger | Python - Flet<br />
+    * A cross-platform desktop GUI program for editing .mp3 metadata. Uses last.fm to query and fetch data if desired.
+  * Malicious QR Code Detector | Kotlin Multiplatform<br />
+    * A mobile application that scans a QR code, determines if the destination URL is shortened, and provides any and all redirects to the final URL. Optionally, a user may choose to check any URL with VirusTotal.
 
 ### Future Project Ideas:<br />
   * Period Tracker App | Kotlin<br />
