@@ -1,17 +1,15 @@
-Hi there, I'm Sharie Rhea! <br />
-I love learning, programming, and anything that involves solving a puzzle.
+Hi there, I'm Sharie.
+I love learning, programming, and anything that involves solving a puzzle.  
 
-### On-going projects:<br />
-  * TrackTagger | Python - Flet<br />
-    * A cross-platform desktop GUI program for editing .mp3 metadata. Uses last.fm to query and fetch data if desired.
-  * Malicious QR Code Detector | Kotlin Multiplatform<br />
-    * A mobile application that scans a QR code, determines if the destination URL is shortened, and provides any and all redirects to the final URL. Optionally, a user may choose to check any URL with VirusTotal.
+### On-going projects:  
+  * TrackTagger | Python - [Textual](https://textual.textualize.io/)  
+    * A terminal user interface (TUI) program for editing song metadata. Uses last.fm to query and fetch data if desired.  
+  * [Advent of Code 2022](https://adventofcode.com/2022) | C++  
+    * Attempting previous AoC challenges with a new language for each year.  
 
-### Future Project Ideas:<br />
-  * Period Tracker App | Kotlin<br />
+### Future Project Ideas:
+  * Period Tracker App | Kotlin
     * A free, open-source, privacy focused, and highly customizable period-tracking app.
-  * Revisit Previous Advent of Code Years | ???
-    * It would be fun to try a different language for every year!
 
 Thanks for stopping by ^^
 
